@@ -6,8 +6,6 @@ This program uses the nested loop statement
 
 
 def main() -> None:
-
-
     # process
     for r_value in range(0, 256):
         for g_value in range(0, 256):
